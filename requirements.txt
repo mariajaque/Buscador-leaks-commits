@@ -1,5 +1,1 @@
 GitPython==3.1.27
-re
-signal
-sys
-time
